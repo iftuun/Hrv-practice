@@ -1,4 +1,3 @@
 print('Hello World!')
-print('7+2 = ', 9 )
+print('7-2 = ', 5 )
 
-7+2
